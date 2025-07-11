@@ -110,4 +110,4 @@ This README covers the **contract’s purpose**, **function list**, and **user w
 
 ---
 
-*For questions or contributions, contact us on X at https://x.com/blockbima
+*For questions or contributions, contact us on X at https://x.com/blockbima*
